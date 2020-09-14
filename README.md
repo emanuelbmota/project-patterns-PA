@@ -21,7 +21,7 @@
   A estrutura é basicamente uma classe onde sua interface junto com seus elemntos e sub-elementos são relacionados entre si, como se fossem uma árvore. 
   
   Exemplo:
-   - A classe 'Client' tem uma interface 'Component' que descreve operações que descreve operações que são comuns tanto para elementos simples como para elementos complexos da árvore. Abaixo da interface temos um elemento 'Leaf (folha)' que não tem sub-elementos que faz alguma atividade e ao lado dele temos o elemento 'Composite' que tem seus sub-elementos onde ele delega suas atividades para seus childrens (filhos) e assim que os childrens terminam a atividade, eles retornam o valor para o 'Composite'.
+   - A classe 'Client' tem uma interface 'Component' onde ela descreve operações que são comuns tanto para elementos simples como para elementos complexos da árvore. Abaixo da interface temos um elemento 'Leaf (folha)' que não tem sub-elementos e executa alguma atividade, ao lado dele temos o elemento 'Composite' que tem seus sub-elementos onde ele delega suas atividades para seus childrens (filhos) e assim que os childrens terminam a atividade, eles retornam o valor para o 'Composite', assim devolvendo para o 'Component' e depois ao 'Client'.
 ## Participants
  ###### Component:
   - Declara interface para objetos da composição
