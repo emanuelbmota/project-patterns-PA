@@ -42,5 +42,4 @@
 
 
 ###### Sample Code
-  https://repl.it/@JoaoRonaldo/CompositePattern#Main.java
-  https://repl.it/@JoaoRonaldo/Composite-Exercicio#Main.java
+  ###### - Pastas no repositório
