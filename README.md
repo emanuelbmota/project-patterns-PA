@@ -1,7 +1,7 @@
 # Padrão de projeto
 
 ## Pattern Name and Classification
-  Composite
+  ###### Composite
   - É um padrão estrutural.
 ## Intent
  Modificar a estrutura de um objeto.
