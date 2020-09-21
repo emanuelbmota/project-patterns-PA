@@ -33,3 +33,6 @@
 
 ###### ApplicationClassOne/ApplicationClassTwo: 
   - Redefine, quando necessário, algumas etapas do algoritmo especificado em FrameworkClass.
+  
+###### Sample Code
+  ###### - Pastas no repositório
