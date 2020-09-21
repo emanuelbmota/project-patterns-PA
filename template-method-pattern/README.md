@@ -18,7 +18,7 @@
     - Um método na superclasse, chamado template method, invoca os demais métodos que podem ser abstratos.
 
 ## Structure  
-  Formada de uma 'Classe Abstrata' e uma 'Classe Concreta'.
+  Formada de uma "Classe Abstrata" e uma "Classe Concreta".
   
   - Classe Abstrata:
     A Classe Abstrata declara método que agem como etapas de um algoritmo, bem como o próprio método padrão que chama esses métodos em uma ordem específica. Os passos podem ser declarados como abstratos ou ter alguma implementação padrão.
