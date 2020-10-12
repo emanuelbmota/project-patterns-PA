@@ -1,7 +1,7 @@
 # Padrão de projeto
 
 ## Pattern Name and Classification
-  ###### Composite
+  ###### Adapter
   - É um padrão estrutural.
 ## Intent
  A inteção para o uso do Adapter é fazer uma integração simples de dois códigos distintos em uma única aplicação.
