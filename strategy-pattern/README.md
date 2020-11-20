@@ -1,5 +1,6 @@
 ## PATTERN NAME AND CLASIFICATION
 Method Strategy
+Padrão Comportamental
 
 ## INTENTION
 A intenção para usar o Padrão Strategy é para delegar responsabilidades, ele aumenta a coesão e aprimora a comunicação entre objetos. Esse Method é um padrao comportamental que também pode ser chamado de Policicy.
